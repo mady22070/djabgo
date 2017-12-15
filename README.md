@@ -1,0 +1,2 @@
+# djabgo
+sample django project
